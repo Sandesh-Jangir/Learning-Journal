@@ -9,3 +9,14 @@ I've decided to shift this journal's format into the format of SOD - EOD.
 - Wrap-up signals from *digital organisation and design.*
 - Complete FreeCodeCamp's JavaScript Course.
 - Plan and structure a complete industry grade MERN stack project.
+
+# EOD
+**Done:**
+- Completed JS Cours
+- Planned and structured IOT Project
+- Read about signals but not wraaped them up yet.
+
+**Tommorow:**
+- wrap up electical signals 
+- get started with electronics project
+- get started with 30 day 30 projects JavaScript challenge
