@@ -9,3 +9,8 @@
 - Wrap up signals.
 - CS50 lecture.
 - Complete challenge 2 of 30 day JS challenge.
+
+# EOD
+
+**Done:**
+- Draw schematics and design logic for ATS.
