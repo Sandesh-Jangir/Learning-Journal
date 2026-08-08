@@ -1,4 +1,4 @@
-# Repositroies Initiated
+# Repositories Initiated
 
 The following repositories were updated in this time-period and will be concluded shortly. Helping me in upgrading my tech-stack and logical thonking skills.
 
