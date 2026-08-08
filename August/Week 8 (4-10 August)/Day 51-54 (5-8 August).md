@@ -6,6 +6,8 @@ The following repositories were updated in this time-period and will be conclude
 - [Python AI Engineering](https://github.com/Sandesh-Jangir/ai-engineering-with-python)
 - [Modern Stack](https://github.com/Sandesh-Jangir/learning-full-stack)
 
+- Started Learning System Design (Completed The Basics)
+
 # Following Up - 
 
 - A Dedicated Repo for Verilog Learnings
